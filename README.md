@@ -1,4 +1,4 @@
-# Hi, I’m Mohammed Zakir, a Program Manager and Business Operations leader with 12+ years of experience at Amazon, spanning Quality, People Management, and Global Program Ownership.
+Hi, I’m Mohammed Zakir, a Program Manager and Business Operations leader with 12+ years of experience at Amazon, spanning Quality, People Management, and Global Program Ownership.
 
 This GitHub portfolio showcases real-world, non-confidential examples of how I:
 - Drive operational excellence
