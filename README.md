@@ -1,55 +1,25 @@
 # Mohammed Zakir – Program & Business Operations Portfolio
 
-👋 Hi, I’m Mohammed Zakir, a Program Manager and Business Operations leader with 12+ years of experience at Amazon, spanning Quality, People Management, and Global Program Ownership.
+Program Manager with 12+ years at Amazon across Quality, People Management, and Global Program Ownership.
 
-This GitHub portfolio showcases real-world, non-confidential examples of how I:
-- Drive operational excellence
-- Lead large, global teams
-- Execute data-driven programs
-- Partner with senior stakeholders
-- Deliver measurable business impact
+This portfolio showcases how I design, execute, and scale operational programs using Amazon-style PRFAQs, KPI frameworks, and governance models.
 
 ---
 
-## 🔍 Core Strengths
-- Program & Business Operations Management
-- Global Stakeholder Governance (EU, US, UK, India)
-- Process Automation & Cost Optimization
-- Data Analytics & KPI Dashboards
-- People Leadership & Succession Planning
+## 📌 PRFAQs
+- [Global Escalation Reduction Program](PRFAQs/Global-Escalation-Reduction-Program.md)
+- [Automation Cost Savings Program](PRFAQs/Automation-Cost-Savings-Program.md)
+
+## ⚙️ Program Management
+- [Program Charter](Program-Management/Program-Charter.md)
+
+## 📊 Dashboards & Analytics
+- [KPI Framework](Dashboards-Analytics/KPI-Framework.md)
+
+## 👥 Leadership & People Impact
+- [People Leadership](Leadership-Impact/People-Leadership.md)
 
 ---
 
-## 📂 Portfolio Contents
-
-### 📌 PRFAQs (Amazon Working Backwards)
-- Global Escalation Reduction Program
-- Automation-Driven Cost Savings Initiative
-- Productivity Transformation for Digital Operations
-
-### 📊 Dashboards & Analytics
-- KPI Frameworks
-- Executive Reporting Models
-- Sample SQL & Metrics Definitions
-
-### ⚙️ Program Management Artifacts
-- Program Charters
-- RACI & Risk Registers
-- Governance Models
-
-### 👥 Leadership & People Impact
-- Team Scaling & Mentorship
-- Productivity Transitions
-- Quality & Performance Recovery Models
-
----
-
-## 🛠 Tools & Skills
-Asana | JIRA | Tableau | Advanced Excel | CRM | Agile/Scrum | RCA | Six Sigma (YB)
-
----
-
-📫 Contact  
 📧 mohammed.zakir87@gmail.com  
-📍 Hyderabad, India  
-📞 +91-9703150826
+📍 Hyderabad, India
